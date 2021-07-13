@@ -1,0 +1,52 @@
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.AssemblyInfo.cs
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.exe
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.deps.json
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.runtimeconfig.json
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.runtimeconfig.dev.json
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.dll
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.pdb
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.RazorTargetAssemblyInfo.cache
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.csproj.CopyComplete
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\staticwebassets\Airop.api.StaticWebAssets.Manifest.cache
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\staticwebassets\Airop.api.StaticWebAssets.xml
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.dll
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.pdb
+C:\Users\User\OneDrive - BGL Group\Desktop\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.genruntimeconfig.cache
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.exe
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.deps.json
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.runtimeconfig.json
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.runtimeconfig.dev.json
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.dll
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Airop.api.pdb
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.csprojAssemblyReference.cache
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.AssemblyInfoInputs.cache
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.AssemblyInfo.cs
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.csproj.CoreCompileInputs.cache
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.MvcApplicationPartsAssemblyInfo.cs
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.MvcApplicationPartsAssemblyInfo.cache
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.RazorTargetAssemblyInfo.cache
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.csproj.CopyComplete
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\staticwebassets\Airop.api.StaticWebAssets.Manifest.cache
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\staticwebassets\Airop.api.StaticWebAssets.xml
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.dll
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.pdb
+E:\Test\Airop\Airop.api\obj\Debug\netcoreapp3.1\Airop.api.genruntimeconfig.cache
+E:\Test\Airop\Airop.api\bin\Debug\netcoreapp3.1\OUT.txt
